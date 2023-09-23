@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 
-.container{
+.holder{
 	    display: flex;
         flex-wrap: wrap; /* Items go to the next row if there's not enough space */
         justify-content: center; /* Center items horizontally within the container */
